@@ -8,7 +8,7 @@
 > Un analyseur de texte moderne avec interface graphique Windows, développé en C++.
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Aperçu de l'application">
+  <img src="Analyseur de Texte/Capture d'écran 2024-12-07 184659.png" alt="Aperçu de l'application">
 </div>
 
 ## ✨ Caractéristiques
