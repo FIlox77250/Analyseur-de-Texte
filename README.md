@@ -122,7 +122,7 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## ✍️ Auteur
 
-Votre Nom - Filox
+Filox
 
 ## 🙏 Remerciements
 
