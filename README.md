@@ -35,7 +35,7 @@
 
 1. **Clonez le dépôt**
    ```bash
-   git clone https://github.com/votre-nom/analyseur-texte.git
+   git clone https://github.com/Filox77250/analyseur-texte.git
    cd analyseur-texte
    ```
 
